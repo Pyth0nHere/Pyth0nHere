@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sudo_uwu" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_uwu?logo=twitter&style=for-the-badge" alt="sudo_uwu" /></a> </p>
 
-- 🔭 I’m currently working on **Bug Hunting Skills**
+- 🔭 I’m currently working on **DevOps Project**
 
-- 🌱 I’m currently learning **Networking,Linux,Web Development and Bash Scripting**
+- 🌱 I’m currently learning **Networking, Linux, Web Development and Bash Scripting**
 
 - 💪 I’m looking to collaborate on **Instagram Posts**
 
-- 🤝 I’m looking for help with **Exploit Development**
+- 🤝 I’m looking for help with **Mentorship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pyth0nHere](https://github.com/Pyth0nHere)
 
