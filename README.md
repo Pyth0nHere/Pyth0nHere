@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sudo_uwu" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_uwu?logo=twitter&style=for-the-badge" alt="sudo_uwu" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Project**
+- 🔭 I’m currently working on a **New Project**
 
 - 🌱 I’m currently learning **Networking, Linux, Web Development and Bash Scripting**
 
