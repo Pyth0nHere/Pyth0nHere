@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Networking, Linux, Web Development and Bash Scripting**
 
-- 💪 I’m looking to collaborate on **Instagram Posts**
+- 💪 I’m looking to collaborate on **Instagram or Twitter**
 
 - 🤝 I’m looking for help with **Mentorship**
 
