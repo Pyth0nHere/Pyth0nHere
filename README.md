@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Piethon</h1>
-<h3 align="center">A passionate DevOps Engineer from Asia</h3>
+<h3 align="center">A passionate No-Lifer from Asia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyth0nhere&label=Profile%20views&color=0e75b6&style=flat" alt="pyth0nhere" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **piethonbughunter69@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I don't Sleep **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
