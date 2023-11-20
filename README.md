@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **piethonbughunter69@gmail.com**
 
-- ⚡ Fun fact **I don't Sleep **
+- ⚡ Fun fact **I don't Sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
